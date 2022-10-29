@@ -65,7 +65,7 @@ Features were chosen according to host interactions, property characteristics, a
 A better experiment to have asked may have been to predict listing price instead of review score rating.
 
 ## Communication
-Occurs within this README.md file, the actual python notebook, and a blog on Medium, accessible here: 
+Occurs within this README.md file, the actual python notebook, and a blog on Medium, accessible here: https://medium.com/@loukas.perdikis/analysing-seattle-airbnb-data-humble-beginnings-8c0afe1c6fd0
 
 ## Acknowledgements
 Udacity course material - providing much of the information required to effectively conduct this study.
